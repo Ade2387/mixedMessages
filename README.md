@@ -1,5 +1,4 @@
 # Mixed Messages
-==============
 
 ## What is it?
 
